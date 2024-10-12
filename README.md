@@ -1,0 +1,2 @@
+# graphrule
+Abductive recommendation engine
